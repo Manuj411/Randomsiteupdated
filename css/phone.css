@@ -1,0 +1,101 @@
+/* services section */
+.clients{
+    height: 756px
+}
+
+.services{
+    display: flex;
+    flex-direction: column;
+    height: 400px;
+}
+#box{
+    height: 218px;
+    border: 6px solid #bee3dc;
+    padding: 10px;
+    margin: 18px 11px;
+    border-radius: 28px;
+    background: #f2f2f2;
+    margin-bottom: 20px;}
+
+
+/* Clients */
+#clients {
+    margin-top: 45px ;
+    display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+
+}
+
+
+
+
+.client-item img{margin-bottom: 30px;}
+
+.client-item2 img{margin-bottom: 30px;}
+
+.client-item3 img{margin-bottom: 30px;}
+
+.services #box img {
+        width: 98px;
+        height: 97px;
+        margin: auto;
+        display: block;
+    }
+   
+/* register section */
+.details input,.details textarea{ width: 75%;
+        padding: .5rem;
+    }
+
+.details{margin-left: 30px;}
+
+
+/* navbar */
+
+.navbar ul{display: flex;
+    text-decoration: none;
+    flex-wrap: wrap;
+    justify-content: center;
+
+
+    
+}
+.logo{display: block;
+margin: auto;}
+
+.navbar{flex-direction: column;   
+     height: 220px;}
+
+
+/* home */
+
+.home{height: 322px;}
+
+/* .home ::before{height: 643px;} */
+
+.home p{text-align: center;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.h-primary{
+    font-family: 'Bree Serif', serif;
+    font-size: 20px;
+    padding: 8px;
+    color: white;
+}
+
